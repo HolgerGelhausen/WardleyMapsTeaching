@@ -1,3 +1,0 @@
-# WardleyMapsTeaching
-
-Bin gespannt
