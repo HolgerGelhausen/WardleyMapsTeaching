@@ -1,3 +1,1 @@
-# WardleyMapsTeaching
-
-Hallo so ist es
+Test zum Erklären von Wardley Maps
